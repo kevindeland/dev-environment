@@ -1,0 +1,347 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/kevindeland/Beats-By-Kev/" . "util/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/content/apps/" . "json/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/content/" . "apps/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/" . "content/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/xml/" . "rss/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/" . "json/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/" . "routes/")
+ ("/Users/kevindeland/git/cio/org-dashboard/public/ui/" . "components/")
+ ("/Users/kevindeland/git/cio/org-dashboard/public/" . "js/")
+ ("/Users/kevindeland/git/cio/org-dashboard/" . "build/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/src/" . "parsers/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/" . "src/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/" . "rapgenius-js/")
+ ("/Users/kevindeland/edu/slider/" . "Lib/")
+ ("/Users/kevindeland/edu/pwaves/" . "Script/")
+ ("/Users/kevindeland/edu/" . "pwaves/")
+ ("/Users/kevindeland/edu/explorable/" . "Script/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/controllers/" . "v1/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/public/" . "components/")
+ ("/Users/kevindeland/git/cio/DEAtails-db/ui/" . "js/")
+ ("/Users/kevindeland/git/cio/DEAtails-db/" . "ui/")
+ ("/Users/" . "kevindeland/")
+ ("/Users/kevindeland/git/watson/piazza-web-app/" . "lib/")
+ ("/Users/kevindeland/git/watson/" . "piazza-web-app/")
+ ("/Users/kevindeland/git/hacks/mockingbird/" . "lib/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/" . "public/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/" . "authorization_code/")
+ ("/Users/kevindeland/git/spotify/" . "web-api-auth-examples/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/xml-crypto/node_modules/" . "xpath.js/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport/" . "lib/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/lib/" . "passport-saml/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/xml-crypto/" . "node_modules/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/" . "q/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/" . "node_modules/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/" . "passport-saml/")
+ ("/Users/kevindeland/git/cio/saml/" . "node_modules/")
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-org-mgmt/" . "models/")
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-user-mgmt/" . "models/")
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-ui/" . "libs/")
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-db-org/" . "libs/")
+ ("/Users/kevindeland/git/cio/bmdo/" . "bmdo-reverse-proxy/")
+ ("/Users/kevindeland/git/cio/bmdo-ui/" . "libs/")
+ ("/Users/kevindeland/git/cio/onboarding-app/" . "conf/")
+ ("/Users/kevindeland/git/cio/bmdo-db-org/" . "controllers/")
+ ("/Users/kevindeland/git/hacks/stamford-schools/scripts/" . "files/")
+ ("/Users/kevindeland/git/hacks/stamford-schools/" . "config/")
+ ("/Users/kevindeland/git/cio/microservice-demo/http-proxy/" . "test/")
+ ("/Users/kevindeland/git/cio/microservice-demo/mirco-core-auth/" . "db/")
+ ("/Users/kevindeland/git/cio/microservice-demo/" . "http-proxy/")
+ ("/Users/kevindeland/git/cio/microservice-demo/express-demo/" . "views/")
+ ("/Users/kevindeland/git/cio/bmdo-auth/" . "views/")
+ ("/Users/kevindeland/git/website/blog-proxy/" . "config/")
+ ("/Users/kevindeland/git/hello/http-proxy/node_modules/" . "crypto/")
+ ("/Users/kevindeland/git/hacks/" . "mockingbird/")
+ ("/Users/kevindeland/git/hello/http-proxy/" . "proxy/")
+ ("/Users/kevindeland/git/hello/" . "http-proxy/")
+ ("/Users/kevindeland/git/hello/bluemix-http-proxy/" . "reverseproxy/")
+ ("/Users/kevindeland/git/hello/bluemix-http-proxy/reverseproxy/" . "lib/")
+ ("/Users/kevindeland/Documents/bluemix-demo/" . "libs/")
+ ("/Users/kevindeland/git/bluemix/datacache-sample/" . "ciccio.sh/")
+ ("/Users/kevindeland/git/swagger/piazza-doc/" . "public/")
+ ("/Users/kevindeland/git/hacks/dhc-server-node/" . "bin/")
+ ("/Users/kevindeland/git/cio/IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/onboardingApp/" . "test/")
+ ("/Users/kevindeland/git/cio/IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/" . "onboardingApp/")
+ ("/Users/kevindeland/git/cio/bmd-onboard-assist/" . "test/")
+ ("/Users/kevindeland/git/cio/" . "org-dashboard/")
+ ("/Users/kevindeland/git/" . "spotify/")
+ ("/Users/kevindeland/" . "leetcode/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/kevindeland/personal/"
+ "/Users/kevindeland/ml/"
+ "/Users/kevindeland/leetcode/"
+ "/Users/kevindeland/git/cio/org-dashboard/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/"
+ "/Users/kevindeland/git/cio/org-dashboard/build/"
+ "/Users/kevindeland/git/cio/org-dashboard/public/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/public/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/lib/"
+ "/Users/kevindeland/git/cio/org-dashboard/libs/"
+ "/Users/kevindeland/git/cio/org-dashboard/public/js/"
+ "/Users/kevindeland/Beats-By-Kev/util/"
+ "/Users/kevindeland/git/cio/org-dashboard/public/templates/"
+ "/Users/kevindeland/Beats-By-Kev/sampledata/"
+ "/Users/kevindeland/Beats-By-Kev/"
+ "/Users/kevindeland/Beats-By-Kev/test/"
+ "/Users/kevindeland/git/hacks/mockingbird/"
+ "/Users/kevindeland/Beats-By-Kev/lib/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/routes/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/models/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/api/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/controllers/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/content/apps/json/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/json/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/migration/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/export/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/xml/rss/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/middleware/"
+ "/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/src/parsers/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/src/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/test/"
+ "/Users/kevindeland/.emacs.d/"
+ "/Users/kevindeland/devworks/devworks-article/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/public/js/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/"
+ "/Users/kevindeland/edu/pwaves/"
+ "/Users/kevindeland/edu/slider/Script/"
+ "/Users/kevindeland/edu/slider/"
+ "/Users/kevindeland/edu/slider/Lib/"
+ "/Users/kevindeland/edu/pwaves/Script/"
+ "/Users/kevindeland/edu/explorable/Script/"
+ "/Users/kevindeland/edu/explorable/Lib/"
+ "/Users/kevindeland/edu/explorable/"
+ "/Users/kevindeland/git/cio/DEAtails-db/"
+ "/Users/kevindeland/angular/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/controllers/"
+ "/Users/kevindeland/git/cio/DEAtails-db/ui/"
+ "/Users/kevindeland/git/cio/DEAtails-db/ui/js/"
+ "/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/controllers/v1/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "dear.md"
+ "bad_sample_example.txt"
+ "prob334.js"
+ "gulpfile.js"
+ ".travis.yml"
+ "package.json"
+ "index.html"
+ "splash.html"
+ "app.js"
+ "server.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/kevindeland/personal/" (22217 47521 0 0) ".#dear.txt" "../" "./")
+
+ ("/Users/kevindeland/.emacs.d/" (22214 20135 0 0) "lisp/" "jade-mode/" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/org-dashboard/public/templates/" (22211 45252 0 0) "terms.html" "site-message.html" "other.html" "orgs.html" "org.html" "../" "./")
+
+ ("/Users/kevindeland/git/cio/org-dashboard/libs/" (22211 45252 0 0) "user-mgmt.js" "org-mgmt.js" "json-response.js" "ghost.js" "epms-services.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/org-dashboard/public/" (22211 45216 0 0) "templates/" "splash.html" "js/" "index.html" "img/" "css/" "components/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/org-dashboard/build/" (22211 45165 0 0) "templates/" "splash.html" "js/" "index.html" "img/" "css/" "components/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/org-dashboard/" (22211 45216 0 0) "Vagrantfile" "server.js" "README.md" "public/" "package.json" "node_modules/" "manifest.yml" "manifest-dev.yml" "local.js" "libs/" "gulpfile.js" "ci_deploy.sh" "build/" "bower.json" ".travis.yml" ".gitignore" ".git/" ".bowerrc" "../" "./")
+
+ ("/Users/kevindeland/ml/" (22214 18663 0 0) "ch2.js" "../" "./")
+
+ ("/Users/kevindeland/leetcode/" (22214 3599 0 0) "prob334.js" "../" "./")
+
+ ("/Users/kevindeland/" (22214 14848 0 0) "xcode/" "word2vec/" "whiteboard/" "tmp/" "summary.txt" "stkeystore.p12" "shadertone/" "setup/" "resume/" "regex.js" "random/" "R/" "Public/" "psych.csv" "pprof/" "Pictures/" "oasys.log" "Music/" "Movies/" "ml/" "Misc/" "mean/" "Library/" "lib/" "leetcode/" "ibtsa.log" "ibt_application.log" "hs_err_pid57874.log" "history-timeline/" "hello_world.wav" "go/" "glslViewer/" "git/" "euler/" "emacs-load-path/" "edu/" "dump.rdb" "Downloads/" "dotfiles/" "Documents/" "devworks/" "Desktop/" "d3/" "coursera/" "clojure/" "Beats-By-Kev/" "atom/" "Applications/" "angular-2/" "angular/" ".viminfo" ".vim/" ".v8flags.3.28.71.19.kevindeland.json" ".Trash/" ".subversion/" ".ssh/" ".sonic-pi/" ".screenrc~" ".screenrc" ".saves/" ".rediscli_history" ".python_history" ".profile~" ".profile" ".ports.json" ".overtone/" ".oracle_jre_usage/" ".octave_hist" ".nvm/" ".npm/" ".node-gyp/" ".matlab/" ".m2/" ".local/" ".lesshst" ".lein/" ".jssc/" ".gitconfig" ".gem/" ".emacs~" ".emacs.old" ".emacs.d.old/" ".emacs.d/" ".DS_Store" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cf/" ".cache/" ".bashrc.old" ".bashrc" ".bash_profile~" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/public/components/" (22211 20088 0 0) "angular-route/" "angular-cookies/" "angular/" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/public/js/" (22202 20573 0 0) "spotify.js" "quiz.js" "playlists.js" "lyrics.js" "app.js" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/" (22211 36749 0 0) "test/" "README.md" "public/" "package.json" "node_modules/" "manifest.yml.prod" "manifest.yml.dev" "manifest.yml" "local.js" "lib/" "gulpfile.js" "controllers/" "build/" "bower.json" "app.js" ".travis.yml" ".gitignore" ".git/" ".cfignore" ".bowerrc" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/src/" (22203 45981 0 0) "util/" "parsers/" "model/" "geniusClient.js" "constants/" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/src/parsers/" (22203 45981 0 0) "SongsParser.js" "SimpleLyricsParser.js" "LyricsParser.js" "ArtistParser.js" "../" "./")
+
+ ("/Users/kevindeland/git/hacks/mockingbird/" (22189 19999 0 0) "test/" "scripts/" "rhymes.js" "README.md" "package.json" "node_modules/" "main.js" "lib/" "files/" "data-access.js" "conf/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/org-dashboard/public/js/" (22203 30926 0 0) "user.js" "splash.js" "posts.js" "orgs.js" "modals.js" "facestypeahead-0.4.4.js" "applist.js" "app.js" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/public/" (22211 20088 0 0) "templates/" "scss/" "js/" "index.html" "css/" "components/" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/lib/" (22211 23724 0 0) "watson.js" "spotify_auth.js" "spotify.js" "genius.js" "genius-api.js" "../" "./")
+
+ ("/Users/kevindeland/git/" (22205 4221 0 0) "xcode/" "website/" "watson/" "swagger/" "spotify/" "slack/" "shader/" "proxy/" "misc/" "learning-gulp/" "hacks/" "ghost/" "genius-api/" "exquiste-corpse-slack/" "dli/" "dev-environment/" "cio/" "bluemix/" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/" (22169 15742 0 0) "web-api-auth-examples/" "RapGenius-JS/" "package.json" "explore/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/" (22118 31854 0 0) "swagger-allocate/" "saml/" "org-dashboard/" "onboarding-app/" "MicroServiceCore/" "microservice-demo/" "IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/" "DEAtails-db/" "bmdo-auth/" "bmdo/" "bmd-onboard-assist/" "apps/" "../" "./")
+
+ ("/Users/kevindeland/Beats-By-Kev/util/" (22191 47137 0 0) "words.js" "vowel_phenomes.json" "line_generator.js" "all_phenomes.json" "../" "./")
+
+ ("/Users/kevindeland/Beats-By-Kev/" (22189 23054 0 0) "util/" "test/" "settings.js" "server.js" "scripts/" "sampledata/" "README.md" "public/" "package.json" "node_modules/" "cloudant_word_sample.js" "bower.json" ".gitignore" ".git/" ".bowerrc" "../" "./")
+
+ ("/Users/kevindeland/Beats-By-Kev/test/" (22189 22976 0 0) "rhymes.js" "actions.js" "../" "./")
+
+ ("/Users/kevindeland/Beats-By-Kev/sampledata/" (22189 21746 0 0) "sentences.js" "beforeAfter.js" "alchemyOutput.js" "../" "./")
+
+ ("/Users/kevindeland/Beats-By-Kev/lib/" (22189 13537 0 0) "alchemy.js" "../" "./")
+
+ ("/Users/kevindeland/git/hacks/" (22012 46996 0 0) "stamford-schools/" "mockingbird/" "dhc-server-node/" "../" "./")
+
+ ("/Users/kevindeland/devworks/devworks-article/" (22187 55057 0 0) "WLTSCredentials.png" "WatsonLTS.png" "toker.png" "template-dw-article-alt1-7.0.xml" "SpotifyPlaylistDropdown.png" "SpotifyNameApp.png" "SpotifyCreateAnApp.png" "SpotifyClientIDSecret.png" "RedirectURIs.png" "pushme.sh" "number9.png" "LoginScreen.png" "InvalidClient.png" "index.xml" "index.html" "heyJude.png" "GeniusNewAPI.png" "dw-transform.vbs" "CreateWTLS.png" "changes.txt" "backup.xml" "backup.html" "addPlaylistQuizJs.png" "addPlaylistIndexHtml.png" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/controllers/" (22184 3509 0 0) "v1.js" "../" "./")
+
+ ("/Users/kevindeland/angular/" (22185 22159 0 0) "templates/" "store-products.json" "quiz.js" "quiz.html" "products.json" "products.js" "index.html" "images/" "css/" "canvas.js" "app.js" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/" (22174 25409 0 0) "README.md" "package.json" "node_modules/" "implicit_grant/" "client_credentials/" "authorization_code/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/test/" (22177 20618 0 0) "sampleSearch.json" "genius-test.js" "genius-api-test.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/middleware/" (22175 54975 0 0) "oauth.js" "middleware.js" "index.js" "ghost-busboy.js" "cache-control.js" "auth-strategies.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/api/" (22175 54963 0 0) "utils.js" "users.js" "upload.js" "themes.js" "tags.js" "slugs.js" "settings.js" "roles.js" "posts.js" "notifications.js" "mail.js" "index.js" "db.js" "configuration.js" "authentication.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/routes/" (22175 55144 0 0) "index.js" "frontend.js" "api.js" "admin.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/models/" (21854 23706 0 0) "user.js" "tag.js" "settings.js" "role.js" "refreshtoken.js" "post.js" "permission.js" "index.js" "client.js" "basetoken.js" "base.js" "app.js" "app-setting.js" "app-field.js" "accesstoken.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/content/apps/" (22175 53550 0 0) "README.md" "json/" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/content/apps/json/" (22175 53602 0 0) "index.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/controllers/" (22175 52929 0 0) "frontend.js" "admin.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/" (22175 52974 0 0) "README.md" "PRIVACY.md" "package.json" "npm-debug.log" "node_modules/" "manifest.yml.w3ibm" "manifest.yml" "manifest.cfg.w3ibm" "manifest.cfg" "LICENSE" "index.js" "Gruntfile.js" "core/" "content/" "config.js" "config.example.js" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/xml/rss/" (22174 21963 0 0) "index.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/json/" (22174 21863 0 0) "index.js" ".#index.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/content/" (21854 23706 0 0) "themes/" "images/" "data/" "apps/" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/" (21854 23706 0 0) "shared/" "server/" "index.js" "built/" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/" (22174 21739 0 0) "xml/" "versioning/" "validation/" "utils/" "schema.js" "migration/" "json/" "importer/" "import/" "fixtures/" "export/" "default-settings.json" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/migration/" (21854 23706 0 0) "index.js" "commands.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/export/" (21854 23706 0 0) "index.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/xml/" (21854 23706 0 0) "xmlrpc.js" "sitemap/" "rss/" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/config/" (21854 23706 0 0) "url.js" "index.js" "../" "./")
+
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/" (21854 23706 0 0) "views/" "utils/" "update-check.js" "storage/" "routes/" "require-tree.js" "permissions/" "models/" "middleware/" "mail.js" "index.js" "helpers/" "ghost-server.js" "filters.js" "events/" "errors/" "email-templates/" "data/" "controllers/" "config/" "apps/" "api/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/org-dashboard/public/ui/components/" (22119 6804 0 0) "angular-sanitize/" "angular/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/org-dashboard/public/ui/" (22119 6804 0 0) "components/" "../" "./")
+
+ ("/Users/kevindeland/edu/pwaves/" (22167 64750 0 0) "waveSim.html" "style.css" "Script/" "README.md" "manifest.yml" "manifest-2.yml" "Lib/" "index.html" "img/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/" (22136 10485 0 0) "test/" "src/" "README.md" "package.json" "node_modules/" "Makefile" "History.md" "examples/" ".travis.yml" ".npmignore" ".node-version" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/" (22136 52103 0 0) "watson-developer-cloud/" "underscore/" "request/" "rapgenius-js/" "querystring/" "nodeunit/" "express/" "cookie-parser/" "async/" ".bin/" "../" "./")
+
+ ("/Users/kevindeland/devworks/" (22138 560 0 0) "devworks-article/" "cuantos-caminos/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-user-mgmt/libs/" (22121 60364 0 0) "terms.js" "json-response.js" "epms-services.js" "email-service.js" "bmd.js" "bluepages.js" "bluegroup.js" "authorization.js" "authentication.js" "account-mgmt.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-ui/routes/" (22112 51057 0 0) "orgs.js" "index.js" "admin.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-reverse-proxy/" (22112 48897 0 0) "routes.json.local" "routes.json.dev" "routes.json" "README.md" "proxy.js" "package.json" "node_modules/" "manifest.yml" "local-app.js" ".gitignore" ".git/" ".cfignore" "../" "./")
+
+ ("/Users/kevindeland/git/cio/DEAtails-db/controllers/" (22117 46705 0 0) "v1.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/DEAtails-db/ui/js/" (22117 46705 0 0) "dea.js" "app.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/DEAtails-db/ui/" (22091 30391 0 0) "templates/" "js/" "index.html" "css/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/DEAtails-db/" (22118 31854 0 0) "Vagrantfile" "ui/" "test/" "simulator.js" "README.md" "package.json" "node_modules/" "models/" "manifest.yml.single" "manifest.yml" "local.js" "libs/" "files/" "controllers/" "ci_deploy.sh" "bower.json" "bosh_cli/" "app.js" ".travis.yml" ".gitignore" ".git/" ".cfignore" ".bowerrc" "../" "./")
+
+ ("/Users/kevindeland/edu/explorable/" (22099 12717 0 0) "style.css" "Script/" "README.md" "Lib/" "index.html.filter" "index.html" ".git/" "../" "./")
+
+ ("/Users/kevindeland/edu/explorable/Script/" (22098 24225 0 0) "views.js" "park.js" "main.js" "filter.js" "controls.js" "../" "./")
+
+ ("/Users/kevindeland/edu/pwaves/Script/" (22121 43732 0 0) "views.js" "slider.js" "main.js" "earthquake.js" "controls.js" "../" "./")
+
+ ("/Users/kevindeland/edu/slider/" (22123 25119 0 0) "style.css" "Script/" "README.md" "Media/" "Lib/" "index.html" "FilterParamsKnobDrag.png" ".git/" "../" "./")
+
+ ("/Users/kevindeland/edu/slider/Script/" (22123 24753 0 0) "views.js" "slider.js" "main.js" "controls.js" "../" "./")
+
+ ("/Users/kevindeland/edu/" (22120 30318 0 0) "zipped/" "zipme.sh" "tangle/" "slider/" "pwaves.zip" "pwaves/" "explorable/" "../" "./")
+
+ ("/Users/kevindeland/edu/slider/Lib/" (22119 45006 0 0) "Tangle.js" "mootools-core-1.3.1-full-compat-yc.js" "BVTouchable.js" "../" "./")
+
+ ("/Users/kevindeland/edu/explorable/Lib/" (22082 27973 0 0) "Tangle.js" "mootools-core-1.3.1-full-compat-yc.js" "dsp.js" "BVTouchable.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/onboardingApp/libs/" (22081 7123 0 0) "ww-service.js" "viewhelper.js" "mailer.js" "mailer-service.js" "feb.js" "epms-services.js" "bmdo-assist.js" "bluepages.js" "bluepages-strategy.js" "bluegroup.js" "account-service.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/onboardingApp/test/" (22055 64468 0 0) "user-test.js" "token-test.js" "org2-test.js" "org-test.js" "mail-test.js" "js-test.js" "feb-test.js" "epmsServices-test.js" "bmdo-assist-test.js" "bmd-test.js" "accountServices-test.js" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/controllers/v1/" (22066 52214 0 0) "quizlet.js" "../" "./")
+
+ ("/Users/" (21897 44346 0 0) "Shared/" "kevindeland/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/kevindeland/git/hacks/mockingbird/test/" (22046 45245 0 0) "rhymeFinderTest.js" "RF2.js" "read-rhymes.js" "loadDataTest.js" "../" "./")
+
+ ("/Users/kevindeland/git/hacks/mockingbird/scripts/" (21986 3637 0 0) "alchemist.js" "../" "./")
+
+ ("/Users/kevindeland/git/misc/" (21951 48431 0 0) "screen-for-OSX/" "dear-roger/" "../" "./")
+
+ ("/Users/kevindeland/git/watson/piazza-web-app/lib/" (21927 49378 0 0) "formatter.js" "alchemy.js" "../" "./")
+
+ ("/Users/kevindeland/git/watson/piazza-web-app/" (21927 49378 0 0) "views/" "test/" "scripts/" "routes/" "README.md" "public/" "package.json" "manifest.yml" "lib/" "config/" "app.js" ".gitignore" ".git/" ".cfignore" "../" "./")
+
+ ("/Users/kevindeland/git/watson/" (21927 50138 0 0) "piazza-web-app/" "../" "./")
+
+ ("/Users/kevindeland/git/hacks/mockingbird/lib/" (21986 3637 0 0) "wordStore.js" "rhymeFinder.js" "pronouncer.js" "alchemyMapper.js" "../" "./")
+
+ ("/Users/kevindeland/git/spotify/explore/" (22062 26960 0 0) "spotify.js" ".#spotify.js" "../" "./")
+
+ ("../models/" (22057 10094 0 0) "dea.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/DEAtails-db/DEAtails-app/" (22057 10956 0 0) "test/" "simulator.js" "sample.txt" "README.md" "package.json" "node_modules/" "models/" "manifest.yml" "local.js" "libs/" "controllers/" "app.js" ".gitignore" ".cfignore" "../" "./")
+
+ ("/Users/kevindeland/git/cio/DEAtails-db/DEAtails-app/controllers/" (22057 10923 0 0) "v1.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/onboardingApp/conf/" (22055 42947 0 0) "terms.js" "ssae.js" "session.js" "email.js" "email-service.js" "db.js" "config.js" "bmd.js" "authorization.js" "authentication.js" "authentication-ldap.js" "audit.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/xml-crypto/lib/" (22037 27540 0 0) "utils.js" "signed-xml.js" "exclusive-canonicalization.js" "enveloped-signature.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/" (22037 27540 0 0) "package.json" "node_modules/" "log.output" "cert/" "app.js" ".env" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/lib/passport-saml/" (22037 27540 0 0) "strategy.js" "saml.js" "inmemory-cache-provider.js" "index.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/onboardingApp/" (22016 4334 0 0) "views/" "Vagrantfile" "test/" "scripts/" "routes/" "README.md" "public/" "package.json" "node_modules/" "models/" "manifest.yml.nginx" "manifest.yml" "manifest-prod.yml" "manifest-prod-test.yml" "manifest-dedicated-prod.yml" "manifest-dedicated-dev.yml" "mail_templates/" "libs/" "conf/" "app.js" ".npmignore" ".gitignore" ".cfignore" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/q/" (22036 13635 0 0) "README.md" "queue.js" "q.js" "package.json" "LICENSE" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/xml-crypto/node_modules/xpath.js/" (22036 17901 0 0) "xpath.js" "tests/" "sample.js" "README.md" "package.json" ".npmignore" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/xml-crypto/node_modules/" (22036 13636 0 0) "xpath.js/" "xmldom-fork-fixed/" "xmldom/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport/lib/" (22036 13634 0 0) "strategies/" "middleware/" "index.js" "http/" "framework/" "errors/" "authenticator.js" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport/" (22036 13634 0 0) "README.md" "package.json" "node_modules/" "LICENSE" "lib/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/lib/" (21422 475 0 0) "passport-saml/" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/xml-crypto/" (22036 13636 0 0) "test/" "README.md" "package.json" "node_modules/" "lib/" "index.js" "example/" ".travis.yml" ".npmignore" "../" "./")
+
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/" (22036 13635 0 0) "xmldom/" "xmlbuilder/" "xml2js/" "xml-encryption/" "xml-crypto/" "q/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

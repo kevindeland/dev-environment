@@ -1,0 +1,396 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/update/2016/08/" . "19/")
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/update/2016/" . "08/")
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/update/" . "2016/")
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/" . "update/")
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/" . "jekyll/")
+ ("/Users/kevindeland/git/kevindeland.github.io/_sass/" . "minima/")
+ ("/Users/kevindeland/git/kevindeland.github.io/" . "_posts/")
+ ("/Users/kevindeland/git/left/" . "_site/")
+ ("/Users/kevindeland/glslViewer/" . "shaders/")
+ ("/Users/kevindeland/glslViewer/shaders/squares/" . "random/")
+ ("/Users/kevindeland/glslViewer/shaders/" . "diamonds/")
+ ("/Applications/CTAT/Projects/HTMLBinaryConcepts/" . "FinalBRDs/")
+ ("/Applications/CTAT/Projects/HTMLBinaryConcepts/HTML/" . "Assets/")
+ ("/Applications/CTAT/Projects/HTML Factors/HTML/" . "Assets/")
+ ("/Applications/CTAT/Projects/HTML Factors/" . "HTML/")
+ ("/Applications/CTAT/Projects/AdditionTutorChaining/" . "CognitiveModel/")
+ ("/Applications/CTAT/" . "Projects/")
+ ("/Applications/CTAT/Projects/BinaryAdditionTutor/" . "CognitiveModel/")
+ ("/Applications/CTAT/Projects/FractionAdditionTutor/" . "CognitiveModel/")
+ ("/Applications/CTAT/Projects/" . "HTMLBinaryConcepts/")
+ ("/Applications/Cognitive Tutor Authoring Tools/Projects/FractionAdditionTutor/" . "CognitiveModel/")
+ ("/Applications/Cognitive Tutor Authoring Tools/Projects/" . "NewFractionAddition/")
+ ("/Users/kevindeland/coursera/ML/assignments/machine-learning-ex2/" . "ex2/")
+ ("/Users/kevindeland/coursera/ML/assignments/" . "machine-learning-ex2/")
+ ("/Users/kevindeland/coursera/" . "ML/")
+ ("/Users/kevindeland/spark-1.6.1/data/" . "mllib/")
+ ("/Users/kevindeland/spark-1.6.1/examples/src/main/" . "python/")
+ ("/Users/kevindeland/spark-1.6.1/examples/src/" . "main/")
+ ("/Users/kevindeland/spark-1.6.1/examples/" . "src/")
+ ("/Users/kevindeland/spark-1.6.1/" . "mysamples/")
+ ("/usr/local/Cellar/octave/4.0.0_5/share/octave/4.0.0/m/" . "optimization/")
+ ("/usr/local/Cellar/octave/4.0.0_5/share/octave/4.0.0/" . "m/")
+ ("/usr/local/Cellar/octave/4.0.0_5/share/octave/" . "4.0.0/")
+ ("/usr/local/Cellar/octave/4.0.0_5/share/" . "octave/")
+ ("/usr/local/Cellar/octave/4.0.0_5/" . "share/")
+ ("/usr/local/Cellar/octave/" . "4.0.0_5/")
+ ("/usr/local/Cellar/" . "octave/")
+ ("/Users/kevindeland/coursera/ML/assignments/machine-learning-ex1/ex1/" . "lib/")
+ ("/Users/kevindeland/coursera/ML/machine-learning-ex1/ex1/" . "lib/")
+ ("/Users/kevindeland/coursera/ML/machine-learning-ex1/" . "ex1/")
+ ("/Users/kevindeland/coursera/ML/" . "assignments/")
+ ("/Users/kevindeland/.emacs.d/" . "jess-mode-1.2/")
+ ("/Users/kevindeland/git/toggl/node_modules/" . "fitbit-node/")
+ ("/Users/kevindeland/git/toggl/public/" . "js/")
+ ("/Users/kevindeland/git/toggl/" . "node_modules/")
+ ("/Users/kevindeland/BasicStatistics/" . "js/")
+ ("/Users/kevindeland/nodejs-datacache/" . "routes/")
+ ("/Users/kevindeland/git/slack/rss-to-slack/" . "lib/")
+ ("/Users/kevindeland/git/slack/" . "slack-post/")
+ ("/Users/kevindeland/Beats-By-Kev/" . "sampledata/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/content/apps/" . "json/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/content/" . "apps/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/" . "content/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/xml/" . "rss/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/data/" . "json/")
+ ("/Users/kevindeland/git/ghost/ghost-0.6.4/core/server/" . "routes/")
+ ("/Users/kevindeland/git/cio/org-dashboard/public/ui/" . "components/")
+ ("/Users/kevindeland/git/cio/org-dashboard/public/" . "templates/")
+ ("/Users/kevindeland/git/cio/org-dashboard/" . "libs/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/src/" . "parsers/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/rapgenius-js/" . "src/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/node_modules/" . "rapgenius-js/")
+ ("/Users/kevindeland/edu/slider/" . "Lib/")
+ ("/Users/kevindeland/edu/pwaves/" . "Script/")
+ ("/Users/kevindeland/edu/" . "pwaves/")
+ ("/Users/kevindeland/edu/explorable/" . "Script/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/controllers/" . "v1/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/public/" . "js/")
+ ("/Users/kevindeland/git/cio/DEAtails-db/ui/" . "js/")
+ ("/Users/kevindeland/git/cio/DEAtails-db/" . "ui/")
+ ("/Users/" . "kevindeland/")
+ ("/Users/kevindeland/git/watson/piazza-web-app/" . "lib/")
+ ("/Users/kevindeland/git/watson/" . "piazza-web-app/")
+ ("/Users/kevindeland/git/hacks/mockingbird/" . "lib/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/authorization_code/" . "lib/")
+ ("/Users/kevindeland/git/spotify/web-api-auth-examples/" . "authorization_code/")
+ ("/Users/kevindeland/git/spotify/" . "web-api-auth-examples/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/xml-crypto/node_modules/" . "xpath.js/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport/" . "lib/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/lib/" . "passport-saml/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/xml-crypto/" . "node_modules/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/node_modules/" . "q/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/passport-saml/" . "node_modules/")
+ ("/Users/kevindeland/git/cio/saml/node_modules/" . "passport-saml/")
+ ("/Users/kevindeland/git/cio/saml/" . "node_modules/")
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-org-mgmt/" . "models/")
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-user-mgmt/" . "models/")
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-ui/" . "libs/")
+ ("/Users/kevindeland/git/cio/bmdo/bmdo-db-org/" . "libs/")
+ ("/Users/kevindeland/git/cio/bmdo/" . "bmdo-reverse-proxy/")
+ ("/Users/kevindeland/git/cio/bmdo-ui/" . "libs/")
+ ("/Users/kevindeland/git/cio/onboarding-app/" . "conf/")
+ ("/Users/kevindeland/git/cio/bmdo-db-org/" . "controllers/")
+ ("/Users/kevindeland/git/hacks/stamford-schools/scripts/" . "files/")
+ ("/Users/kevindeland/git/hacks/stamford-schools/" . "config/")
+ ("/Users/kevindeland/git/cio/microservice-demo/http-proxy/" . "test/")
+ ("/Users/kevindeland/git/cio/microservice-demo/mirco-core-auth/" . "db/")
+ ("/Users/kevindeland/git/cio/microservice-demo/" . "http-proxy/")
+ ("/Users/kevindeland/git/cio/microservice-demo/express-demo/" . "views/")
+ ("/Users/kevindeland/git/cio/bmdo-auth/" . "views/")
+ ("/Users/kevindeland/git/website/blog-proxy/" . "config/")
+ ("/Users/kevindeland/git/hello/http-proxy/node_modules/" . "crypto/")
+ ("/Users/kevindeland/git/hacks/" . "mockingbird/")
+ ("/Users/kevindeland/git/hello/http-proxy/" . "proxy/")
+ ("/Users/kevindeland/git/hello/" . "http-proxy/")
+ ("/Users/kevindeland/git/hello/bluemix-http-proxy/" . "reverseproxy/")
+ ("/Users/kevindeland/git/hello/bluemix-http-proxy/reverseproxy/" . "lib/")
+ ("/Users/kevindeland/Documents/bluemix-demo/" . "libs/")
+ ("/Users/kevindeland/git/bluemix/datacache-sample/" . "ciccio.sh/")
+ ("/Users/kevindeland/git/swagger/piazza-doc/" . "public/")
+ ("/Users/kevindeland/git/hacks/dhc-server-node/" . "bin/")
+ ("/Users/kevindeland/git/cio/IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/onboardingApp/" . "test/")
+ ("/Users/kevindeland/git/cio/IBM.Bluemix.Adoption.-.Platform.and.Technical.Foundation/" . "onboardingApp/")
+ ("/Users/kevindeland/git/cio/bmd-onboard-assist/" . "test/")
+ ("/Users/kevindeland/git/cio/" . "org-dashboard/")
+ ("/Users/kevindeland/git/" . "ExplorableEarthquakes/")
+ ("/Users/kevindeland/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/kevindeland/git/kevindeland.github.io/_posts/"
+ "/Users/kevindeland/git/kevindeland.github.io/_sass/"
+ "/Users/kevindeland/git/kevindeland.github.io/_sass/minima/"
+ "/Users/kevindeland/git/kevindeland.github.io/"
+ "/Users/kevindeland/git/kevindeland.github.io/_includes/"
+ "/Users/kevindeland/git/kevindeland.github.io/_projects/"
+ "/Users/kevindeland/git/ExplorableEarthquakes/"
+ "/Users/kevindeland/git/kevindeland.github.io/blog/"
+ "/Users/kevindeland/git/kevindeland.github.io/about/"
+ "/Users/kevindeland/git/kevindeland.github.io/projects/"
+ "/Users/kevindeland/git/kevindeland.github.io/_layouts/"
+ "/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/update/2016/08/19/"
+ "/Users/kevindeland/git/kevindeland.github.io/_site/"
+ "/Users/kevindeland/git/anotherblog/_posts/"
+ "/Users/kevindeland/git/left/_layouts/"
+ "/Users/kevindeland/git/left/"
+ "/Users/kevindeland/git/left/_site/"
+ "/Users/kevindeland/git/left/_posts/"
+ "/Users/kevindeland/glslViewer/shaders/diamonds/"
+ "/Users/kevindeland/glslViewer/shaders/combos/"
+ "/Users/kevindeland/glslViewer/shaders/"
+ "/Users/kevindeland/glslViewer/shaders/squares/"
+ "/Users/kevindeland/glslViewer/"
+ "/Users/kevindeland/glslViewer/shaders/overlay/"
+ "/Users/kevindeland/glslViewer/shaders/squares/random/"
+ "/Applications/CTAT/Projects/FractionAdditionTutor/CognitiveModel/"
+ "/Applications/CTAT/Projects/HTMLBinaryConcepts/FinalBRDs/"
+ "/Applications/CTAT/Projects/HTMLBinaryConcepts/InProgressBRDs/"
+ "/Applications/CTAT/Projects/HTMLBinaryConcepts/util/"
+ "/Applications/CTAT/Projects/HTMLBinaryConcepts/HTML/Assets/"
+ "/Applications/CTAT/Projects/HTMLBinaryConcepts/HTML/"
+ "/Applications/CTAT/Projects/HTML Factors/HTML/"
+ "/Applications/CTAT/Projects/HTML Factors/FinalBRDs/"
+ "/Applications/CTAT/Projects/BinaryAdditionTutor/CognitiveModel/"
+ "/Applications/CTAT/Projects/HTML Factors/HTML/Assets/"
+ "/Applications/CTAT/Projects/AdditionTutorChaining/problems/"
+ "/Applications/CTAT/Projects/AdditionTutorChaining/CognitiveModel/"
+ "/Users/kevindeland/.emacs.d/"
+ "/Users/kevindeland/.emacs.d/jess-mode-1.2/"
+ "/Applications/Cognitive Tutor Authoring Tools/Projects/FractionAdditionTutor/CognitiveModel/"
+ "/Applications/Cognitive Tutor Authoring Tools/Projects/NewFractionAddition/"
+ "/Applications/Cognitive Tutor Authoring Tools/Projects/myNewTutor/"
+ "/Users/kevindeland/Jess61p4/examples/"
+ "/Users/kevindeland/coursera/ML/assignments/machine-learning-ex2/ex2/"
+ "/Users/kevindeland/spark-1.6.1/data/mllib/"
+ "/Users/kevindeland/spark-1.6.1/mysamples/"
+ "/Users/kevindeland/spark-1.6.1/examples/src/main/python/"
+ "/Users/kevindeland/spark-1.6.1/"
+ "/Users/kevindeland/spark-1.6.1/conf/"
+ "/Users/kevindeland/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "2016-08-19-welcome-to-jekyll.markdown"
+ "2016-08-19-my-second-post.markdown"
+ "minima.scss"
+ "_layout.scss"
+ "index.html"
+ "footer.html"
+ "_config.yml"
+ "2016-08-23-using-images.md"
+ "2016-08-23-explorable-earthquakes.md"
+ "README.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/kevindeland/git/kevindeland.github.io/_posts/" (22461 48737 0 0) "2016-08-23-using-images.md" "2016-08-19-welcome-to-jekyll.markdown" "2016-08-19-my-second-post.markdown" ".#2016-08-19-my-second-post.markdown" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/" (22461 48700 0 0) "projects/" "index.html" "Gemfile.lock" "Gemfile" "feed.xml" "css/" "CNAME" "blog/" "assets/" "about/" "_site/" "_sass/" "_projects/" "_posts/" "_layouts/" "_includes/" "_config.yml" ".sass-cache/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_sass/minima/" (22461 48667 0 0) "_syntax-highlighting.scss" "_layout.scss" "_base.scss" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_projects/" (22461 45410 0 0) "2016-08-23-explorable-earthquakes.md" "../" "./")
+
+ ("/Users/kevindeland/git/ExplorableEarthquakes/" (22461 43876 0 0) "waveSim.html" "style.css" "Script/" "README.md" "manifest.yml" "manifest-2.yml" "Lib/" "index.html" "img/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/" (22461 43161 0 0) "xcode/" "website/" "watson/" "toggl/" "swagger/" "spotify/" "slack/" "shader/" "proxy/" "myblog/" "misc/" "learning-gulp/" "kevindeland.github.io/" "hacks/" "groupme/" "git-pusher/" "ghost/" "genius-api/" "exquiste-corpse-slack/" "ExplorableEarthquakes/" "dli/" "dev-environment/" "cio/" "bluemix/" ".sass-cache/" ".DS_Store" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/blog/" (22460 55453 0 0) "index.html" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/projects/" (22460 55225 0 0) "index.html" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/about/" (22460 54351 0 0) "index.html" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_layouts/" (22460 54961 0 0) "project.html" "post.html" "page.html" "default.html" "../" "./")
+
+ ("/Users/kevindeland/" (22460 46970 0 0) "Trash/" "stkeystore.p12" "setup/" "SametimeTranscripts/" "random/" "Public/" "Projects/" "Programs/" "Pictures/" "Personal/" "Music/" "Movies/" "Misc/" "Library/" "Learning/" "Google Drive/" "git/" "emacs-load-path/" "Downloads/" "dotfiles/" "Documents/" "Desktop/" "Classes/" "ArduinoLibraries/" "Applications/" ".Xauthority" ".wapi/" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.4.5.103.35.kevindeland.json" ".v8flags.3.28.71.19.kevindeland.json" ".travis/" ".Trash/" ".tooling/" ".subversion/" ".ssh/" ".spark_history" ".sonic-pi/" ".screenrc~" ".screenrc" ".scala_history" ".sbt/" ".saves/" ".rnd" ".Rhistory" ".rediscli_history" ".python_history" ".profile~" ".profile" ".ports.json" ".plotly/" ".phet/" ".p2/" ".overtone/" ".oracle_jre_usage/" ".octave_hist" ".nvm/" ".npm/" ".node_repl_history" ".node-gyp/" ".matplotlib/" ".matlab/" ".m2/" ".local/" ".lesshst" ".lein/" ".jssc/" ".ivy2/" ".install4j" ".gnuplot_history" ".gitconfig" ".gem/" ".emacs~" ".emacs.old" ".emacs.d.old/" ".emacs.d/" ".eclipse/" ".eaglerc" ".DS_Store" ".docker/" ".cups/" ".ctat/" ".cortex/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cf/" ".cache/" ".bundle/" ".bashrc.old" ".bashrc" ".bash_profile~" ".bash_profile.pysave" ".bash_profile" ".bash_history" ".atom/" ".anyconnect" "../" "./")
+
+ ("/Users/kevindeland/.emacs.d/" (22456 40344 0 0) "lisp/" "jess-mode-1.2/" "jade-mode/" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/" (22460 54062 0 0) "jekyll/" "index.html" "images/" "Gemfile.lock" "Gemfile" "feed.xml" "css/" "CNAME" "assets/" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/update/2016/08/19/" (22455 36531 0 0) "welcome-to-jekyll.html" "my-second-post.html" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/update/2016/08/" (22460 46462 0 0) "19/" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/update/2016/" (22455 36531 0 0) "08/" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/update/" (22455 36531 0 0) "2016/" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_site/jekyll/" (22455 36531 0 0) "update/" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_includes/" (22460 52341 0 0) "icon-twitter.svg" "icon-twitter.html" "icon-github.svg" "icon-github.html" "header.html" "head.html" "footer.html" "../" "./")
+
+ ("/Users/kevindeland/git/kevindeland.github.io/_sass/" (22455 36509 0 0) "minima.scss" "minima/" "../" "./")
+
+ ("/Users/kevindeland/git/anotherblog/_posts/" (22455 34263 0 0) "2016-08-19-welcome-to-jekyll.markdown" "../" "./")
+
+ ("/Users/kevindeland/git/left/_site/" (22454 9426 0 0) "sitemap.xml" "script/" "README.md" "posts/" "LICENSE" "js/" "index.html" "images/" "Gemfile.lock" "Gemfile" "favicon.ico" "css/" "CNAME" "atom.xml" "apple-touch-icon.png" "about.html" "404.html" "../" "./")
+
+ ("/Users/kevindeland/git/left/_layouts/" (22454 8225 0 0) "post.html" "layout.html" "../" "./")
+
+ ("/Users/kevindeland/git/left/" (22454 9423 0 0) "script/" "README.md" "LICENSE" "js/" "index.html" "images/" "Gemfile.lock" "Gemfile" "favicon.ico" "css/" "CNAME" "atom.xml" "apple-touch-icon.png" "about.html" "_site/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.html" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/left/_posts/" (22454 8225 0 0) "2014-02-25-draft.markdown" "2012-12-12-left.markdown" "../" "./")
+
+ ("/Users/kevindeland/glslViewer/shaders/combos/" (22438 53701 0 0) "combo_0.frag" "../" "./")
+
+ ("/Users/kevindeland/glslViewer/shaders/" (22438 53693 0 0) "squares/" "README.md" "poi.frag" "line_bounce.frag" "LED_spin.frag" "diamonds/" "combos/" ".git/" "../" "./")
+
+ ("/Users/kevindeland/glslViewer/shaders/squares/" (22438 53677 0 0) "sq_9.frag" "sq_8.frag" "sq_7.frag" "sq_6.frag" "sq_5.frag" "sq_4.frag" "sq_3.frag" "sq_2.frag" "sq_1.frag" "sq_0.frag" "random/" "../" "./")
+
+ ("/Users/kevindeland/glslViewer/shaders/squares/random/" (22438 24464 0 0) "squeezing_lines.frag" "pulsing_corners.frag" "cool_effect_1.frag" "../" "./")
+
+ ("/Users/kevindeland/glslViewer/shaders/diamonds/" (22438 29374 0 0) "diamonds_2.frag" "diamonds_1.frag" "../" "./")
+
+ ("/Users/kevindeland/glslViewer/shaders/overlay/" (22438 25913 0 0) "diamonds_2.frag" "diamonds_1.frag" "../" "./")
+
+ ("/Users/kevindeland/glslViewer/" (22436 44699 0 0) "TODO.list.screen.startup" "test.png" "test.frag" "src/" "shaders/" "README.md" "poi.frag" "new.frag" "Makefile" "LICENSE" "LED_spin.frag" "include/" "glslViewer" "bunny.vert" "bunny.ply" "bunny.frag" "ayy.frag" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/.emacs.d/jess-mode-1.2/" (22398 38765 0 0) "README" "jess-mode.el" "inf-jess.el" "../" "./")
+
+ ("/Applications/CTAT/Projects/AdditionTutorChaining/CognitiveModel/" (22416 10835 0 0) "wmeTypes.clp" "productionRules.pr" "../" "./")
+
+ ("/Applications/CTAT/Projects/AdditionTutorChaining/problems/" (22416 10835 0 0) "start.brd" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTML Factors/HTML/Assets/" (22416 10835 0 0) "calcIcon.png" "arrow-right-top.png" "arrow-right-bottom.png" "arrow-left-top.png" "arrow-left-bottom.png" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTML Factors/FinalBRDs/" (22416 10835 0 0) "balloons.brd" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTML Factors/HTML/" (22426 9584 0 0) "factors.html" "Assets/" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTMLBinaryConcepts/HTML/" (22417 29782 0 0) "sampleFlex.html" "reverseCardGui.html" "oranges.html" "cardgui.html" "Assets/" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTMLBinaryConcepts/InProgressBRDs/" (22417 26003 0 0) "../" "./")
+
+ ("/Applications/CTAT/Projects/FractionAdditionTutor/CognitiveModel/" (22416 10835 0 0) "wmeTypes.clp" "productionRules.pr" "3-8_plus_5-12.wme" "1-4_plus_3-8.wme" "1-4_plus_1-6.wme" "1-3_plus_2-5.wme" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTMLBinaryConcepts/HTML/Assets/" (22415 56876 0 0) "style.css" "style-orange.css" "red_card_back.png" "orange-icon.png" "lightbulb-on-icon.png" "lightbulb-off-icon.png" "card_dot_8.png" "card_dot_4.png" "card_dot_2.png" "card_dot_16.png" "card_dot_1.png" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTMLBinaryConcepts/FinalBRDs/" (22417 25947 0 0) "dec_to_bin_9.brd" "dec_to_bin_8.brd" "dec_to_bin_7.brd" "dec_to_bin_6.brd" "dec_to_bin_5.brd" "dec_to_bin_4.brd" "dec_to_bin_3.brd" "dec_to_bin_2.brd" "dec_to_bin_1.brd" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTMLBinaryConcepts/util/" (22416 61601 0 0) "inputFormulas.txt" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTMLBinaryConcepts/" (22416 54820 0 0) "util/" "README.md" "PracticeBRDs/" "InProgressBRDs/" "HTML/" "FinalBRDs/" ".git/" "../" "./")
+
+ ("/Applications/CTAT/Projects/" (22403 56272 0 0) "SubtractionTutor/" "myNewTutor/" "LogicTutor/" "HTMLBinaryConcepts/" "HTML Factors/" "FractionAdditionTutor/" "FlashFractionAddition/" "FlashFactors/" "FlashDecimalArithmetic/" "BinaryAdditionTutor/" "AdditionTutorNoChaining/" "AdditionTutorChaining/" ".project" "../" "./")
+
+ ("/Applications/CTAT/Projects/BinaryAdditionTutor/CognitiveModel/" (22402 24040 0 0) "wmeTypes.clp" "9_plus_2.wme" "../" "./")
+
+ ("/Applications/CTAT/Projects/HTML Factors/" (22399 54454 0 0) "HTML/" "FinalBRDs/" "../" "./")
+
+ ("/Applications/CTAT/" (22398 34918 0 0) "TutoringService.command" "TutoringService" "Templates/" "Subtraction Tutor.app/" "ReplayTutors/" "Projects/" "PluginInstaller.app/" "perspectives/" "MigrationTool.command" "MigrationTool" "logs/" "Logic Tutor.app/" "logformatprefs.xml" "lib/" "HTML5/" "Fraction Addition Tutor.app/" "Flash/" "eclipse/" "deploy-tutor/" "deploy-applet/" "ctaticon.png" "CTAT Home Page.app/" "CTAT for Java.app/" "CTAT for HTML and Flash.app/" "CTAT academic license.html" "Cognitive Tutor Authoring Tools Uninstaller.app/" "BinaryAdditionTutor/" "Addition Tutor (Non-chaining).app/" "Addition Tutor (Chaining).app/" ".project" ".install4j/" ".classpath" "../" "./")
+
+ ("/Applications/CTAT/Projects/AdditionTutorChaining/" (22398 24399 0 0) "TutorInterface.java" "TutorInterface.class" "problems/" "CognitiveModel/" "../" "./")
+
+ ("/Applications/CTAT/Projects/FractionAdditionTutor/" (22398 27153 0 0) "problems/" "FractionAddition.java" "FractionAddition.class" "CognitiveModel/" "1-4_plus_3-8.brd" "../" "./")
+
+ ("/Applications/CTAT/Projects/BinaryAdditionTutor/" (22398 36037 0 0) "problems/" "CognitiveModel/" "BinaryAddition.java" "BinaryAddition.class" "../" "./")
+
+ ("/Applications/Cognitive Tutor Authoring Tools/Projects/FractionAdditionTutor/" (22387 53612 0 0) "problems/" "FractionAddition.java" "FractionAddition.class" "CognitiveModel/" "../" "./")
+
+ ("/Applications/Cognitive Tutor Authoring Tools/Projects/FractionAdditionTutor/CognitiveModel/" (22387 53585 0 0) "wmeTypes.clp" "productionRules.pr" "3-8_plus_5-12.wme" "1-4_plus_1-6.wme" "1-3_plus_2-5.wme" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/Week3/" (22330 169 0 0) "regularizedOptimization.m" "regularizedCostFunction.m" "overfitting.m" "logCostFunction.m" "costFunction.m" "advancedOptimization.m" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/conf/" (22331 18302 0 0) "spark-env.sh.template" "spark-defaults.conf.template" "slaves.template" "metrics.properties.template" "log4j.properties.template" "log4j.properties" "fairscheduler.xml.template" "docker.properties.template" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/" (22331 36509 0 0) "yarn/" "unsafe/" "tox.ini" "tools/" "target/" "tags/" "streaming/" "sql/" "scalastyle-config.xml" "sbt/" "sbin/" "repl/" "README.md" "R/" "python/" "pylintrc" "project/" "pom.xml" "NOTICE" "network/" "mysamples/" "myModelPath/" "mllib/" "make-distribution.sh" "LogisticRegressionSample.py" "licenses/" "LICENSE" "lib_managed/" "launcher/" "hello_pyspark.py" "graphx/" "extras/" "external/" "examples/" "ex2data1.txt" "ec2/" "docs/" "docker-integration-tests/" "docker/" "dev/" "data/" "core/" "CONTRIBUTING.md" "conf/" "CHANGES.txt" "build/" "bin/" "bagel/" "assembly/" ".rat-excludes" ".gitattributes" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/mysamples/" (22331 27336 0 0) "SimpleDataFrame.py" "SimpleApp.py" "../" "./")
+
+ ("/Users/kevindeland/Jess61p4/examples/" (22386 40495 0 0) "zebra.clp" "wordgame.clp" "stack.clp" "hello.clp" "hard.clp" "fullmab.clp" "frame.clp" "draw.clp" "dilemma.clp" "console.html" "browse.clp" "animal.dat" "animal.clp" "../" "./")
+
+ ("/Applications/Cognitive Tutor Authoring Tools/Projects/NewFractionAddition/" (22381 26373 0 0) "FractionAddition.java" "FractionAddition.class" "1_4+1_6.brd" "../" "./")
+
+ ("/Applications/Cognitive Tutor Authoring Tools/Projects/myNewTutor/" (22381 20363 0 0) "StudentInterface.java" "StudentInterface.class" "../" "./")
+
+ ("/Applications/Cognitive Tutor Authoring Tools/Projects/" (22381 21122 0 0) "SubtractionTutor/" "NewFractionAddition/" "myNewTutor/" "LogicTutor/" "HTML Factors/" "FractionAdditionTutor/" "FlashFractionAddition/" "FlashFactors/" "FlashDecimalArithmetic/" "AdditionTutorNoChaining/" "AdditionTutorChaining/" "../" "./")
+
+ ("/Applications/Cognitive Tutor Authoring Tools/Projects/FractionAdditionTutor/problems/" (22379 57504 0 0) "1-4_plus_1-6.brd" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/data/mllib/" (22331 29087 0 0) "sample_tree_data.csv" "sample_svm_data.txt" "sample_naive_bayes_data.txt" "sample_multiclass_classification_data.txt" "sample_movielens_data.txt" "sample_linear_regression_data.txt" "sample_libsvm_data.txt" "sample_lda_data.txt" "sample_isotonic_regression_data.txt" "sample_fpgrowth.txt" "sample_binary_classification_data.txt" "ridge-data/" "pic_data.txt" "pagerank_data.txt" "lr_data.txt" "lr-data/" "kmeans_data.txt" "gmm_data.txt" "als/" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/assignments/machine-learning-ex2/ex2/" (22330 18134 0 0) "token.mat" "submit.m" "sigmoid.m" "predict.m" "plotDecisionBoundary.m" "plotData.m" "mapFeature.m" "lib/" "ex2data2.txt" "ex2data1.txt" "ex2_reg.m" "ex2.m" "costFunctionReg.m" "costFunction.m" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/assignments/machine-learning-ex2/" (21758 8587 0 0) "ex2.pdf" "ex2/" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/assignments/" (22330 182 0 0) "machine-learning-ex2 (1).zip" "machine-learning-ex2/" "machine-learning-ex1/" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/" (22330 1746 0 0) "Week3/" "Week2/" "Week1/" "readme.txt" "patchme.sh" "octave/" "ML_Octave_400_patch.zip" "lib/" "functions/" "assignments/" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/data/" (22225 10450 0 0) "mllib/" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/examples/src/main/python/" (22331 23361 0 0) "wordcount.py" "transitive_closure.py" "streaming/" "status_api_demo.py" "sql.py" "sort.py" "pi.py" "parquet_inputformat.py" "pagerank.py" "mllib/" "ml/" "logistic_regression.py" "kmeans.py" "hbase_outputformat.py" "hbase_inputformat.py" "cassandra_outputformat.py" "cassandra_inputformat.py" "avro_inputformat.py" "als.py" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/examples/src/main/" (22225 10450 0 0) "scala/" "resources/" "r/" "python/" "java/" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/examples/src/" (22225 10450 0 0) "main/" "../" "./")
+
+ ("/Users/kevindeland/spark-1.6.1/examples/" (22312 51380 0 0) "target/" "src/" "pom.xml" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/Week2/" (22322 21061 0 0) "vectorization.m" "test.png" "quizMultipleVariables.m" "pricesY.dat" "plottingData.m" "myPlot.svg" "multipleFeatures.m" "movingDataAround.m" "homeData.dat" "hello.txt" "hello.mat" "gradientDescentInPractice.m" "featuresX.dat" "controlStatements.m" "computingOnData.m" "basicOperations.m" ".DS_Store" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/assignments/machine-learning-ex1/ex1/" (22324 56910 0 0) "warmUpExercise.m" "token.mat" "submit.m" "plotData.m" "normalEqn.m" "lib/" "gradientDescentMulti.m" "gradientDescent.m" "featureNormalize.m" "ex1data2.txt" "ex1data1.txt" "ex1_multi.m" "ex1.m" "computeCostMulti.m" "computeCost.m" ".DS_Store" "../" "./")
+
+ ("/usr/local/Cellar/octave/4.0.0_5/share/octave/4.0.0/m/optimization/" (21860 41187 0 0) "sqp.m" "qp.m" "private/" "pqpnonneg.m" "PKG_ADD" "optimset.m" "optimget.m" "lsqnonneg.m" "glpk.m" "fzero.m" "fsolve.m" "fminunc.m" "fminsearch.m" "fminbnd.m" "__all_opts__.m" "../" "./")
+
+ ("/usr/local/Cellar/octave/4.0.0_5/share/octave/4.0.0/m/" (21860 41187 0 0) "time/" "testfun/" "strings/" "statistics/" "startup/" "special-matrix/" "specfun/" "sparse/" "signal/" "set/" "prefs/" "polynomial/" "plot/" "pkg/" "path/" "optimization/" "miscellaneous/" "linear-algebra/" "java/" "io/" "image/" "help/" "gui/" "geometry/" "general/" "elfun/" "deprecated/" "audio/" "@ftp/" "../" "./")
+
+ ("/usr/local/Cellar/octave/4.0.0_5/share/octave/4.0.0/" (21860 41187 0 0) "m/" "imagelib/" "etc/" "data/" "../" "./")
+
+ ("/usr/local/Cellar/octave/4.0.0_5/share/octave/" (21860 41187 0 0) "site/" "4.0.0/" "../" "./")
+
+ ("/usr/local/Cellar/octave/4.0.0_5/share/" (21860 41187 0 0) "octave/" "man/" "info/" "icons/" "appdata/" "../" "./")
+
+ ("/usr/local/Cellar/octave/4.0.0_5/" (22312 46093 0 0) "share/" "README" "NEWS" "make-check.log" "libexec/" "lib/" "INSTALL_RECEIPT.json" "include/" "fntests.log" "COPYING" "ChangeLog" "bin/" "AUTHORS" "../" "./")
+
+ ("/usr/local/Cellar/octave/" (22312 46079 0 0) "4.0.0_5/" "../" "./")
+
+ ("/usr/local/Cellar/" (22317 6149 0 0) "xz/" "wget/" "veclibfort/" "tree/" "tbb/" "szip/" "suite-sparse421/" "sqlite/" "sip/" "screen/" "scala/" "rlwrap/" "redis/" "readline/" "r/" "qt/" "qscintilla2/" "qrupdate/" "qhull/" "python3/" "pyqt/" "pstoedit/" "proj/" "plotutils/" "pkg-config/" "pixman/" "pcre/" "openssl/" "octave/" "nettle/" "mpfr/" "maven/" "lzlib/" "lua/" "little-cms2/" "libxml2/" "libtool/" "libtiff/" "libtasn1/" "libspatialite/" "libpng/" "libmpc/" "liblwgeom/" "libgeotiff/" "libffi/" "leiningen/" "json-c/" "jpeg/" "jbig2dec/" "isl/" "imagemagick/" "hdf5/" "hadoop/" "graphicsmagick/" "gnutls/" "gnuplot/" "gmp/" "glpk/" "glib/" "glfw3/" "gl2ps/" "git-lfs/" "giflib/" "ghostscript/" "ghi/" "gettext/" "geos/" "gdbm/" "gdal/" "gd/" "gcc/" "freexl/" "freetype/" "fontconfig/" "fftw/" "epstool/" "emacs/" "dnsmasq/" "direnv/" "coreutils/" "cairo/" "automake/" "autoconf/" "arpack/" "../" "./")
+
+ ("/usr/local/" (22312 45919 0 0) "var/" "share/" "sbin/" "README.md" "opt/" "octave/" "LICENSE.txt" "Library/" "lib/" "jamf/" "include/" "go/" "Frameworks/" "etc/" "CODEOFCONDUCT.md" "Cellar/" "bin/" ".yardopts" ".travis.yml" ".gitignore" ".github/" ".git/" "../" "./")
+
+ ("/usr/" (22272 16068 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/assignments/machine-learning-ex1/ex1/lib/" (22318 30472 0 0) "xxNumToHexStr.m" "submitWithConfiguration.m" "makeValidFieldName.m" "jsonlab/" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/assignments/machine-learning-ex1/" (22318 28903 0 0) "ex1.pdf" "ex1/" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/functions/" (22317 8569 0 0) "squareThisNumber.m" "squareAndCubeThisNumber.m" "costFunctionJ.m" "../" "./")
+
+ ("/Users/kevindeland/git/slack/rss-to-slack/lib/" (22276 3312 0 0) "util.js" "tone.js" "slackbot.js" "rss.js" "redis.js" "../" "./")
+
+ ("/Users/kevindeland/git/slack/rss-to-slack/" (22276 57774 0 0) "test/" "scripts/" "README.md" "package.json" "npm-debug.log" "node_modules/" "manifest.yml.test" "manifest.yml" "local.js" "lib/" "gulpfile.js" "feed.json" "app.js" ".travis.yml" ".gitignore" ".git/" ".cfignore" "../" "./")
+
+ ("/Users/kevindeland/BasicStatistics/" (22301 34062 0 0) "Rplots.pdf" "README.md" "quiz4.R" "package.json" "node_modules/" "lab5.R" "lab1.R" "js/" "index.html" "galaxies.R" "final.py" "d3hist.html" "ch6.js" "ch2_02.js" "ch1.js" ".git/" "../" "./")
+
+ ("/Users/kevindeland/BasicStatistics/js/" (22243 22528 0 0) "app.js" "../" "./")
+
+ ("/Users/kevindeland/git/toggl/public/" (22246 10609 0 0) "js/" "index.html" "../" "./")
+
+ ("/Users/kevindeland/git/toggl/public/js/" (22244 47978 0 0) "../" "./")
+
+ ("/Users/kevindeland/angular/" (22268 1040 0 0) "templates/" "store-products.json" "quiz.js" "quiz.html" "products.json" "products.js" "index.html" "images/" "css/" "canvas.js" "app.js" ".git/" "../" "./")
+
+ ("/Users/kevindeland/git/toggl/test/" (22271 55041 0 0) "toggl.js" "../" "./")
+
+ ("/Users/kevindeland/git/toggl/" (22273 34464 0 0) "test/" "README.md" "public/" "package.json" "npm-debug.log" "node_modules/" "local.js" "curl.sh" "app.js" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/kevindeland/.emacs.d/lisp/" (22315 43610 0 0) "yaml-mode.el" "whitespace.el" "web-mode.el" "typewriter-mode/" "smooth-scrolling.el" "octave-mod.el" "node_emacs" "markdown-mode.el" "linum.el" "js-config.el" "js-comint.el" "glsl-mode.el" "defuns-config.el" "column-marker.el" "angular-mode.el" "angular-html-mode.el" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/machine-learning-ex1/ex1/lib/" (21789 41230 0 0) "submitWithConfiguration.m" "makeValidFieldName.m" "jsonlab/" "../" "./")
+
+ ("/Users/kevindeland/coursera/ML/machine-learning-ex1/ex1/" (21986 13897 0 0) "warmUpExercise.m" "token.mat" "submit.m" "plotData.m" "octave-workspace" "normalEqn.m" "myPlot.png" "lib/" "gradientDescentMulti.m" "gradientDescent.m" "featureNormalize.m" "ex1data2.txt" "ex1data1.txt" "ex1_multi.m" "ex1.m" "computeCostMulti.m" "computeCost.m" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
